@@ -18,3 +18,7 @@ print(result)
 # End of exercise 18-b
 
 # Exercise 18-c: Addition using +=
+vertical_speed=750
+
+vertical_speed += 100
+print(vertical_speed)
